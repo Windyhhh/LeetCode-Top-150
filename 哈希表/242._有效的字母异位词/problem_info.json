@@ -1,0 +1,15 @@
+{
+  "id": "242",
+  "title": "Valid Anagram",
+  "translatedTitle": "有效的字母异位词",
+  "titleSlug": "valid-anagram",
+  "difficulty": "Easy",
+  "acRate": 65.9,
+  "topicTags": [
+    "哈希表",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/valid-anagram/"
+}
