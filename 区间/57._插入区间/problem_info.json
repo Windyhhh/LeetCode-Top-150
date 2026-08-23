@@ -1,0 +1,14 @@
+{
+  "id": "57",
+  "title": "Insert Interval",
+  "translatedTitle": "插入区间",
+  "titleSlug": "insert-interval",
+  "difficulty": "Medium",
+  "acRate": 41.2,
+  "topicTags": [
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "区间",
+  "url": "https://leetcode.cn/problems/insert-interval/"
+}
