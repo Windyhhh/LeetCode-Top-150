@@ -1,0 +1,10 @@
+# 合并区间
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/merge-intervals/
+
+class Solution {
+    func merge(intervals: Array<Array<Int64>>): Array<Array<Int64>> {
+
+    }
+}
