@@ -1,0 +1,15 @@
+{
+  "id": "106",
+  "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+  "translatedTitle": "从中序与后序遍历序列构造二叉树",
+  "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+  "difficulty": "Medium",
+  "acRate": 72.1,
+  "topicTags": [
+    "树",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+}
