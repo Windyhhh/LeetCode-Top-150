@@ -1,0 +1,15 @@
+{
+  "id": "169",
+  "title": "Majority Element",
+  "translatedTitle": "多数元素",
+  "titleSlug": "majority-element",
+  "difficulty": "Easy",
+  "acRate": 66.8,
+  "topicTags": [
+    "数组",
+    "哈希表"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/majority-element/"
+}
