@@ -1,0 +1,15 @@
+{
+  "id": "100",
+  "title": "Same Tree",
+  "translatedTitle": "相同的树",
+  "titleSlug": "same-tree",
+  "difficulty": "Easy",
+  "acRate": 60.1,
+  "topicTags": [
+    "树",
+    "深度优先搜索"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/same-tree/"
+}
