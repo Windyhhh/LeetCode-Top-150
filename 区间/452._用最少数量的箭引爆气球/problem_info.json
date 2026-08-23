@@ -1,0 +1,15 @@
+{
+  "id": "452",
+  "title": "Minimum Number of Arrows to Burst Balloons",
+  "translatedTitle": "用最少数量的箭引爆气球",
+  "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+  "difficulty": "Medium",
+  "acRate": 51.8,
+  "topicTags": [
+    "贪心",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "区间",
+  "url": "https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/"
+}
