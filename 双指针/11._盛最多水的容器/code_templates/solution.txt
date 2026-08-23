@@ -1,0 +1,10 @@
+# 盛最多水的容器
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/container-with-most-water/
+
+class Solution {
+    func maxArea(height: Array<Int64>): Int64 {
+
+    }
+}
