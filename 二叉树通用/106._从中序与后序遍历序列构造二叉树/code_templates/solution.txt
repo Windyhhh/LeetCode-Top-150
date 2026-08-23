@@ -1,0 +1,28 @@
+# 从中序与后序遍历序列构造二叉树
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+
+/**
+ * Definition for a binary tree node.
+ * public class BinaryTreeNode {
+ *     public var val: Int64
+ *     public var left: ?BinaryTreeNode
+ *     public var right: ?BinaryTreeNode
+ *     public init() {
+ *         val = 0
+ *         left = None
+ *         right = None
+ *     }
+ *     public init(val: Int64) {
+ *         this()
+ *         this.val = val
+ *     }
+ * }
+ */
+
+class Solution {
+    func buildTree(inorder: Array<Int64>, postorder: Array<Int64>): ?BinaryTreeNode {
+
+    }
+}
