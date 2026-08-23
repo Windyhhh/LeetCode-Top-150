@@ -1,0 +1,10 @@
+# 两数之和
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/two-sum/
+
+class Solution {
+    func twoSum(nums: Array<Int64>, target: Int64): Array<Int64> {
+
+    }
+}
