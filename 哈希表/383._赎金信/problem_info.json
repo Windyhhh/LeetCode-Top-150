@@ -1,0 +1,15 @@
+{
+  "id": "383",
+  "title": "Ransom Note",
+  "translatedTitle": "赎金信",
+  "titleSlug": "ransom-note",
+  "difficulty": "Easy",
+  "acRate": 60.8,
+  "topicTags": [
+    "哈希表",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/ransom-note/"
+}
