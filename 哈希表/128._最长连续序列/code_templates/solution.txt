@@ -1,0 +1,10 @@
+# 最长连续序列
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/longest-consecutive-sequence/
+
+class Solution {
+    func longestConsecutive(nums: Array<Int64>): Int64 {
+
+    }
+}
