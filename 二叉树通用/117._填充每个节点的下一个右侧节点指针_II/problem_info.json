@@ -1,0 +1,15 @@
+{
+  "id": "117",
+  "title": "Populating Next Right Pointers in Each Node II",
+  "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+  "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+  "difficulty": "Medium",
+  "acRate": 51.1,
+  "topicTags": [
+    "树",
+    "深度优先搜索"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/"
+}
