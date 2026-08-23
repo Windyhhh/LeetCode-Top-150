@@ -1,0 +1,10 @@
+# 轮转数组
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/rotate-array/
+
+class Solution {
+    func rotate(nums: Array<Int64>, k: Int64): Unit {
+
+    }
+}
