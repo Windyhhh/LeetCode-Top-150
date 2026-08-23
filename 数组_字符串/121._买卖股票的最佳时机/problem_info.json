@@ -1,0 +1,15 @@
+{
+  "id": "121",
+  "title": "Best Time to Buy and Sell Stock",
+  "translatedTitle": "买卖股票的最佳时机",
+  "titleSlug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "Easy",
+  "acRate": 57.9,
+  "topicTags": [
+    "数组",
+    "动态规划"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/"
+}
