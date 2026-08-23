@@ -1,0 +1,15 @@
+{
+  "id": "226",
+  "title": "Invert Binary Tree",
+  "translatedTitle": "翻转二叉树",
+  "titleSlug": "invert-binary-tree",
+  "difficulty": "Easy",
+  "acRate": 79.1,
+  "topicTags": [
+    "树",
+    "深度优先搜索"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/invert-binary-tree/"
+}
