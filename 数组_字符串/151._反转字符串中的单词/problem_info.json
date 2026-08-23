@@ -1,0 +1,15 @@
+{
+  "id": "151",
+  "title": "Reverse Words in a String",
+  "translatedTitle": "反转字符串中的单词",
+  "titleSlug": "reverse-words-in-a-string",
+  "difficulty": "Medium",
+  "acRate": 52.1,
+  "topicTags": [
+    "双指针",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/reverse-words-in-a-string/"
+}
