@@ -1,0 +1,15 @@
+{
+  "id": "219",
+  "title": "Contains Duplicate II",
+  "translatedTitle": "存在重复元素 II",
+  "titleSlug": "contains-duplicate-ii",
+  "difficulty": "Easy",
+  "acRate": 45.1,
+  "topicTags": [
+    "数组",
+    "哈希表"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/contains-duplicate-ii/"
+}
