@@ -1,0 +1,28 @@
+# 求根节点到叶节点数字之和
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/sum-root-to-leaf-numbers/
+
+/**
+ * Definition for a binary tree node.
+ * public class BinaryTreeNode {
+ *     public var val: Int64
+ *     public var left: ?BinaryTreeNode
+ *     public var right: ?BinaryTreeNode
+ *     public init() {
+ *         val = 0
+ *         left = None
+ *         right = None
+ *     }
+ *     public init(val: Int64) {
+ *         this()
+ *         this.val = val
+ *     }
+ * }
+ */
+
+class Solution {
+    func sumNumbers(root: ?BinaryTreeNode): Int64 {
+
+    }
+}
