@@ -1,0 +1,15 @@
+{
+  "id": "135",
+  "title": "Candy",
+  "translatedTitle": "分发糖果",
+  "titleSlug": "candy",
+  "difficulty": "Hard",
+  "acRate": 48.1,
+  "topicTags": [
+    "贪心",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/candy/"
+}
