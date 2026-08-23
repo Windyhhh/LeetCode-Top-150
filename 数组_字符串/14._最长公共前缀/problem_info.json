@@ -1,0 +1,14 @@
+{
+  "id": "14",
+  "title": "Longest Common Prefix",
+  "translatedTitle": "最长公共前缀",
+  "titleSlug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "acRate": 42.9,
+  "topicTags": [
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/longest-common-prefix/"
+}
