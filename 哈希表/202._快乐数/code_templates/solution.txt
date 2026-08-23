@@ -1,0 +1,10 @@
+# 快乐数
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/happy-number/
+
+class Solution {
+    func isHappy(n: Int64): Bool {
+
+    }
+}
