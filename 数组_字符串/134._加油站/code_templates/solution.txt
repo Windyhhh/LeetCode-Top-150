@@ -1,0 +1,10 @@
+# 加油站
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/gas-station/
+
+class Solution {
+    func canCompleteCircuit(gas: Array<Int64>, cost: Array<Int64>): Int64 {
+
+    }
+}
