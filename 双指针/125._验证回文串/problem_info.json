@@ -1,0 +1,15 @@
+{
+  "id": "125",
+  "title": "Valid Palindrome",
+  "translatedTitle": "验证回文串",
+  "titleSlug": "valid-palindrome",
+  "difficulty": "Easy",
+  "acRate": 46.9,
+  "topicTags": [
+    "双指针",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "双指针",
+  "url": "https://leetcode.cn/problems/valid-palindrome/"
+}
