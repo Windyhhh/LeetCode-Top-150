@@ -1,0 +1,10 @@
+# 存在重复元素 II
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/contains-duplicate-ii/
+
+class Solution {
+    func containsNearbyDuplicate(nums: Array<Int64>, k: Int64): Bool {
+
+    }
+}
