@@ -1,0 +1,15 @@
+{
+  "id": "114",
+  "title": "Flatten Binary Tree to Linked List",
+  "translatedTitle": "二叉树展开为链表",
+  "titleSlug": "flatten-binary-tree-to-linked-list",
+  "difficulty": "Medium",
+  "acRate": 73.1,
+  "topicTags": [
+    "栈",
+    "树"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/"
+}
