@@ -1,0 +1,15 @@
+{
+  "id": "15",
+  "title": "3Sum",
+  "translatedTitle": "三数之和",
+  "titleSlug": "3sum",
+  "difficulty": "Medium",
+  "acRate": 37.5,
+  "topicTags": [
+    "数组",
+    "双指针"
+  ],
+  "paidOnly": false,
+  "category": "双指针",
+  "url": "https://leetcode.cn/problems/3sum/"
+}
