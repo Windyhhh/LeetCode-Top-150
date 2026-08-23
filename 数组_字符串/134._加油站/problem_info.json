@@ -1,0 +1,15 @@
+{
+  "id": "134",
+  "title": "Gas Station",
+  "translatedTitle": "加油站",
+  "titleSlug": "gas-station",
+  "difficulty": "Medium",
+  "acRate": 71.9,
+  "topicTags": [
+    "贪心",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/gas-station/"
+}
