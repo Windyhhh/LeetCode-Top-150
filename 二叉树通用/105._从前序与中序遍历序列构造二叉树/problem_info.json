@@ -1,0 +1,15 @@
+{
+  "id": "105",
+  "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+  "translatedTitle": "从前序与中序遍历序列构造二叉树",
+  "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+  "difficulty": "Medium",
+  "acRate": 71.1,
+  "topicTags": [
+    "树",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+}
