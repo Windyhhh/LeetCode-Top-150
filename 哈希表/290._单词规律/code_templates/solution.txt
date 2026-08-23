@@ -1,0 +1,10 @@
+# 单词规律
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/word-pattern/
+
+class Solution {
+    func wordPattern(pattern: String, s: String): Bool {
+
+    }
+}
