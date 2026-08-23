@@ -1,0 +1,15 @@
+{
+  "id": "189",
+  "title": "Rotate Array",
+  "translatedTitle": "轮转数组",
+  "titleSlug": "rotate-array",
+  "difficulty": "Medium",
+  "acRate": 44.7,
+  "topicTags": [
+    "数组",
+    "数学"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/rotate-array/"
+}
