@@ -1,0 +1,15 @@
+{
+  "id": "128",
+  "title": "Longest Consecutive Sequence",
+  "translatedTitle": "最长连续序列",
+  "titleSlug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "acRate": 54.1,
+  "topicTags": [
+    "并查集",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/longest-consecutive-sequence/"
+}
