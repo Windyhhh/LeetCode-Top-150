@@ -1,0 +1,15 @@
+{
+  "id": "205",
+  "title": "Isomorphic Strings",
+  "translatedTitle": "同构字符串",
+  "titleSlug": "isomorphic-strings",
+  "difficulty": "Easy",
+  "acRate": 49.3,
+  "topicTags": [
+    "哈希表",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/isomorphic-strings/"
+}
