@@ -1,0 +1,10 @@
+# 验证回文串
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/valid-palindrome/
+
+class Solution {
+    func isPalindrome(s: String): Bool {
+
+    }
+}
