@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "translatedTitle": "两数之和",
+  "titleSlug": "two-sum",
+  "difficulty": "Easy",
+  "acRate": 52.8,
+  "topicTags": [
+    "数组",
+    "哈希表"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/two-sum/"
+}
