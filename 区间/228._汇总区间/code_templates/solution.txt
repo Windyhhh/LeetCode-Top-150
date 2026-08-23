@@ -1,0 +1,10 @@
+# 汇总区间
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/summary-ranges/
+
+class Solution {
+    func summaryRanges(nums: Array<Int64>): ArrayList<String> {
+
+    }
+}
