@@ -1,0 +1,14 @@
+{
+  "id": "228",
+  "title": "Summary Ranges",
+  "translatedTitle": "汇总区间",
+  "titleSlug": "summary-ranges",
+  "difficulty": "Easy",
+  "acRate": 55.1,
+  "topicTags": [
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "区间",
+  "url": "https://leetcode.cn/problems/summary-ranges/"
+}
