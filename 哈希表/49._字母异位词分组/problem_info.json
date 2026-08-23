@@ -1,0 +1,15 @@
+{
+  "id": "49",
+  "title": "Group Anagrams",
+  "translatedTitle": "字母异位词分组",
+  "titleSlug": "group-anagrams",
+  "difficulty": "Medium",
+  "acRate": 67.9,
+  "topicTags": [
+    "数组",
+    "哈希表"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/group-anagrams/"
+}
