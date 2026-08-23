@@ -1,0 +1,15 @@
+{
+  "id": "290",
+  "title": "Word Pattern",
+  "translatedTitle": "单词规律",
+  "titleSlug": "word-pattern",
+  "difficulty": "Easy",
+  "acRate": 44.6,
+  "topicTags": [
+    "哈希表",
+    "字符串"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/word-pattern/"
+}
