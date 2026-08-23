@@ -1,0 +1,10 @@
+# 赎金信
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/ransom-note/
+
+class Solution {
+    func canConstruct(ransomNote: String, magazine: String): Bool {
+
+    }
+}
