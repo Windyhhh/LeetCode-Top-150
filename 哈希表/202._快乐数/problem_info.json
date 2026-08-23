@@ -1,0 +1,15 @@
+{
+  "id": "202",
+  "title": "Happy Number",
+  "translatedTitle": "快乐数",
+  "titleSlug": "happy-number",
+  "difficulty": "Easy",
+  "acRate": 62.1,
+  "topicTags": [
+    "哈希表",
+    "数学"
+  ],
+  "paidOnly": false,
+  "category": "哈希表",
+  "url": "https://leetcode.cn/problems/happy-number/"
+}
