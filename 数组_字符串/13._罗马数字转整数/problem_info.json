@@ -1,0 +1,15 @@
+{
+  "id": "13",
+  "title": "Roman to Integer",
+  "translatedTitle": "罗马数字转整数",
+  "titleSlug": "roman-to-integer",
+  "difficulty": "Easy",
+  "acRate": 62.8,
+  "topicTags": [
+    "哈希表",
+    "数学"
+  ],
+  "paidOnly": false,
+  "category": "数组_字符串",
+  "url": "https://leetcode.cn/problems/roman-to-integer/"
+}
