@@ -1,0 +1,15 @@
+{
+  "id": "11",
+  "title": "Container With Most Water",
+  "translatedTitle": "盛最多水的容器",
+  "titleSlug": "container-with-most-water",
+  "difficulty": "Medium",
+  "acRate": 60.9,
+  "topicTags": [
+    "贪心",
+    "数组"
+  ],
+  "paidOnly": false,
+  "category": "双指针",
+  "url": "https://leetcode.cn/problems/container-with-most-water/"
+}
