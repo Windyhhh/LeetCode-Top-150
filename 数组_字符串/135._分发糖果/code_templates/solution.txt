@@ -1,0 +1,10 @@
+# 分发糖果
+# Language: cangjie
+# Difficulty: Hard
+# Problem Link: https://leetcode.cn/problems/candy/
+
+class Solution {
+    func candy(ratings: Array<Int64>): Int64 {
+
+    }
+}
