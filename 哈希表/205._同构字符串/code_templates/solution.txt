@@ -1,0 +1,10 @@
+# 同构字符串
+# Language: cangjie
+# Difficulty: Easy
+# Problem Link: https://leetcode.cn/problems/isomorphic-strings/
+
+class Solution {
+    func isIsomorphic(s: String, t: String): Bool {
+
+    }
+}
