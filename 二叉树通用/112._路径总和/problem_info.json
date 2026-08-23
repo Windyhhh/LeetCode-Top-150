@@ -1,0 +1,15 @@
+{
+  "id": "112",
+  "title": "Path Sum",
+  "translatedTitle": "路径总和",
+  "titleSlug": "path-sum",
+  "difficulty": "Easy",
+  "acRate": 53.1,
+  "topicTags": [
+    "树",
+    "深度优先搜索"
+  ],
+  "paidOnly": false,
+  "category": "二叉树通用",
+  "url": "https://leetcode.cn/problems/path-sum/"
+}
