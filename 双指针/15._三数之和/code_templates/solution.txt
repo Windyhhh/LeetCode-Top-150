@@ -1,0 +1,10 @@
+# 三数之和
+# Language: cangjie
+# Difficulty: Medium
+# Problem Link: https://leetcode.cn/problems/3sum/
+
+class Solution {
+    func threeSum(nums: Array<Int64>): ArrayList<ArrayList<Int64>> {
+
+    }
+}
