@@ -1,0 +1,15 @@
+{
+  "id": "56",
+  "title": "Merge Intervals",
+  "translatedTitle": "合并区间",
+  "titleSlug": "merge-intervals",
+  "difficulty": "Medium",
+  "acRate": 49.2,
+  "topicTags": [
+    "数组",
+    "排序"
+  ],
+  "paidOnly": false,
+  "category": "区间",
+  "url": "https://leetcode.cn/problems/merge-intervals/"
+}
