@@ -1,0 +1,15 @@
+{
+  "id": "167",
+  "title": "Two Sum II - Input Array Is Sorted",
+  "translatedTitle": "两数之和 II - 输入有序数组",
+  "titleSlug": "two-sum-ii-input-array-is-sorted",
+  "difficulty": "Medium",
+  "acRate": 59.2,
+  "topicTags": [
+    "数组",
+    "双指针"
+  ],
+  "paidOnly": false,
+  "category": "双指针",
+  "url": "https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/"
+}
