@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐ LeetCode-Top-150
+# LeetCode 热题 150 题解 | LeetCode-Top-150
 
 ### Complete solutions for the LeetCode interview Top 150.
 
